@@ -267,7 +267,7 @@ Acknowledge **analytical assumptions**, identify **limitations**, and clarify wh
 
 ### Project Summary
 This project demonstrates an **end-to-end time series analysis in SQL**, moving from raw transactional data to **validated trends**, **controlled intervention effects**, and **actionable KPIs**.  
-It is designed to mirror how time-series analysis is conducted in **real-world business analytics and interviews**.
+It is designed to mirror how time-series analysis is conducted in **real-world business analytics**.
 
 
 
