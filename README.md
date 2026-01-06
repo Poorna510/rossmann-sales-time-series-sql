@@ -247,7 +247,6 @@ Acknowledge **analytical assumptions**, identify **limitations**, and clarify wh
 ### Repository Structure
 - `sql/` — Phase-wise SQL analysis (Phases 1–5)
 - `README.md` — Business narrative and insights
-- `data/schema.md` — Table and view definitions (optional)
 
 ---
 
