@@ -242,5 +242,32 @@ Acknowledge **analytical assumptions**, identify **limitations**, and clarify wh
 - Modeling promo duration and lag effects
 - Forecasting under alternative promotion strategies
 
+## Phase 7 — Final Packaging & Project Overview
+
+### Repository Structure
+- `sql/` — Phase-wise SQL analysis (Phases 1–5)
+- `README.md` — Business narrative and insights
+- `data/schema.md` — Table and view definitions (optional)
+
+---
+
+### Tech Stack
+- **SQL (MySQL 8+)**
+- Window functions and CTEs
+- Time-series aggregation and decomposition logic
+
+---
+
+### How to Use This Project
+- Review **Phase 0–1** to understand business framing and data reliability
+- Follow **Phases 2–4** to see trend validation, segmentation, and intervention analysis
+- Refer to **Phase 5** for final KPIs and business-ready insights
+
+---
+
+### Project Summary
+This project demonstrates an **end-to-end time series analysis in SQL**, moving from raw transactional data to **validated trends**, **controlled intervention effects**, and **actionable KPIs**.  
+It is designed to mirror how time-series analysis is conducted in **real-world business analytics and interviews**.
+
 
 
